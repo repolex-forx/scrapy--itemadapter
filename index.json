@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "itemadapter",
+  "versions": [
+    {
+      "commit": "ef0b748c57de506a0524db06537e006a207a40b5",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:10:59.431073+00:00"
+    }
+  ]
+}
